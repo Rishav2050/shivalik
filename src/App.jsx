@@ -309,7 +309,7 @@ function App() {
             <div className="nav-brand-logo">
               <Settings size={20} className="logo-spin-hover" />
             </div>
-            <span>SHIVALIK</span>
+            <span>SHIVALIK ENTERPRISES</span>
           </a>
 
           {/* Desktop Navigation Links */}
